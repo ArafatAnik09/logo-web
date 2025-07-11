@@ -162,3 +162,27 @@ header{
 }
 
 /* user end */
+/* raedy start */
+.ready{
+    text-align: center;
+}
+.ready-info{
+    background-color: #FFFFFF;
+    border-radius: 14px;
+    padding: 71px 150px;
+}
+.ready-info h2{
+    margin: 0;
+    font-size: 50px;
+    color: 000000;
+}
+.ready-info p{
+    margin: 20px 0;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.ready-info img{
+    margin-top: 20px;
+    border-radius: 48px;
+}
+/* ready end */
