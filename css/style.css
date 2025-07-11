@@ -32,8 +32,8 @@ body{
     font-weight: bold;
     color: #252432;
 }
-.section-margin{
-    padding: 116px 160px 110px 140px;
+.section-padding{
+    padding: 116px 160px 0px 140px;
 }
 /* header start */
 header{
@@ -91,3 +91,31 @@ header{
     border-radius: 48px;
 }
 /* action end */
+/* productive start */
+.productive{
+    border-radius: 24px;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 50px 142px;   
+}
+.pro_title{
+    font-size: 38px;
+    text-align: center;
+}
+.pro_items{
+    display: flex;
+    gap: 159px;
+    align-items: center;
+    justify-content: space-between;
+}
+.pro_item{
+    margin: 40px 0 20px;
+}
+.pro_item h1{
+    margin: 0;
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+}
+
+/* productive end */
