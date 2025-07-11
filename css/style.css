@@ -119,3 +119,46 @@ header{
 }
 
 /* productive end */
+/* user start */
+.user{}
+.user h1{
+    font-size: 42px;
+    text-align: center;
+}
+.user-container{
+    display: flex;
+    gap: 20px;
+}
+.user-card{
+    background-color: #FFFFFF;
+    border-radius: 14px;
+    box-shadow: 5px 5px 5px 5px #ea6666;
+    padding: 24px;
+
+}
+.user-description h4{
+    color: #1E1E1E;
+    margin: 24px 0 8px;
+}
+.user-identity{
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    gap: 6px;
+}
+.user-img img{
+    border-radius: 50%;
+}
+.user-info p{
+    margin: 0;
+    font-size: 12px;
+} 
+.user-p1{
+    color: rgba(117, 117, 117, 1);
+}
+.user-p2{
+    margin-top: 2px;
+    color: rgba(179, 179, 179, 1);
+}
+
+/* user end */
