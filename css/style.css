@@ -35,6 +35,10 @@ body{
 .section-padding{
     padding: 116px 160px 0px 140px;
 }
+button:hover,.btn-hover{
+    background-color: rgb(146, 11, 158);
+    color: #000000;
+}
 /* header start */
 header{
     background-image: url(../Assets/Hero-bg.png);
@@ -219,6 +223,10 @@ form input,textarea{
     margin-top: 19px;
     padding: 20px 186px;
 }
+.form-btn:hover{
+    background-color: rgb(146, 11, 158);
+    color: #000000;
+}
 /* get end  */
 /* footer start */
 footer{
@@ -243,4 +251,5 @@ footer p{
     gap: 48px;
     justify-content: center;
 }
+
 /* footer start */
