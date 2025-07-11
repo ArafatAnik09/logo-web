@@ -186,3 +186,37 @@ header{
     border-radius: 48px;
 }
 /* ready end */
+/* get start  */
+.get{
+    padding: 60px 160px 0px 140px;
+}
+.get-title h1{
+    font-size: 97px;
+    color: #000000;
+}
+.get-info{
+    padding: 50px 0;
+    display: flex;
+    gap: 115px;
+    /* justify-content: space-between; */
+}
+form label{
+    margin: 19px 0 10px;
+    display: block;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+form input,textarea{
+    border: none;
+    border-radius: 10px;
+    color: rgba(0, 0, 0, 0.5);
+    background-color: #FFFFFF;
+    display: block;
+    padding: 20px 272px 20px 32px;
+}
+.form-btn{
+    margin-top: 19px;
+    padding: 20px 186px;
+}
+/* get end  */
